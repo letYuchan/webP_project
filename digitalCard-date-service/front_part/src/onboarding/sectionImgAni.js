@@ -1,3 +1,5 @@
+'use strict';
+
 document.addEventListener('DOMContentLoaded', function() {
     const images = document.querySelectorAll('#ad .ad__img, #step1 .step__img, #step2 .step__img, #step3 .step__img');
 

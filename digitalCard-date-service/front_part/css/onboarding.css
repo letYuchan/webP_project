@@ -434,7 +434,7 @@
     margin-bottom: 100px;
     position: relative;
     right: 285px;
-
+    top: -15px;
 }
 
 .nextStepButton3:hover::after{
